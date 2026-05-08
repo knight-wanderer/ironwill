@@ -10,6 +10,7 @@
 .main-box {
   width:100vw;
   min-height:100vh;
+  box-sizing: border-box;
   background: rgba(40, 18, 2, 0.88);
   border-radius: 22px;
   padding: 16px;

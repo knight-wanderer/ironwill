@@ -1,10 +1,15 @@
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+  html, body{
+  width:100%;
+  margin:0;
+  padding:0;
+}
 .main-box {
-  width: 100%;
-  max-width: 100%;
+  width:100vw;
+  min-height:100vh;
   background: rgba(40, 18, 2, 0.88);
   border-radius: 22px;
   padding: 16px;
